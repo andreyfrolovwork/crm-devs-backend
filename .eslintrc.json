@@ -105,6 +105,6 @@
     "no-useless-catch": "off",
     "no-debugger": "off",
     "no-mixed-operators": "off",
-    "semi": "off"
+    "semi": [2, "never"]
   }
 }
