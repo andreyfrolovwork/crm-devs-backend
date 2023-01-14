@@ -1,0 +1,1541 @@
+﻿[
+    {
+        "id": "1",
+        "section": "1",
+        "rooms": "1",
+        "area": "38.45",
+        "similar": ""
+    },
+    {
+        "id": "2",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": ""
+    },
+    {
+        "id": "3",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": ""
+    },
+    {
+        "id": "4",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": "3"
+    },
+    {
+        "id": "5",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": "2"
+    },
+    {
+        "id": "6",
+        "section": "1",
+        "rooms": "2",
+        "area": "44.58",
+        "similar": ""
+    },
+    {
+        "id": "7",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": ""
+    },
+    {
+        "id": "8",
+        "section": "2",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": ""
+    },
+    {
+        "id": "9",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "7"
+    },
+    {
+        "id": "10",
+        "section": "2",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": ""
+    },
+    {
+        "id": "11",
+        "section": "3",
+        "rooms": "0",
+        "area": "26.62",
+        "similar": ""
+    },
+    {
+        "id": "12",
+        "section": "3",
+        "rooms": "2",
+        "area": "37.83",
+        "similar": ""
+    },
+    {
+        "id": "13",
+        "section": "3",
+        "rooms": "2",
+        "area": "33.458",
+        "similar": ""
+    },
+    {
+        "id": "14",
+        "section": "3",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "15",
+        "section": "3",
+        "rooms": "3",
+        "area": "58.53",
+        "similar": ""
+    },
+    {
+        "id": "16",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": "7"
+    },
+    {
+        "id": "17",
+        "section": "4",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": "8"
+    },
+    {
+        "id": "18",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "9"
+    },
+    {
+        "id": "19",
+        "section": "4",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": "10"
+    },
+    {
+        "id": "20",
+        "section": "5",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "21",
+        "section": "5",
+        "rooms": "3",
+        "area": "58.54",
+        "similar": ""
+    },
+    {
+        "id": "22",
+        "section": "5",
+        "rooms": "4",
+        "area": "74.72",
+        "similar": ""
+    },
+    {
+        "id": "1",
+        "section": "1",
+        "rooms": "1",
+        "area": "38.45",
+        "similar": ""
+    },
+    {
+        "id": "2",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": ""
+    },
+    {
+        "id": "3",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": ""
+    },
+    {
+        "id": "4",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": "3"
+    },
+    {
+        "id": "5",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": "2"
+    },
+    {
+        "id": "6",
+        "section": "1",
+        "rooms": "2",
+        "area": "44.58",
+        "similar": ""
+    },
+    {
+        "id": "7",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": ""
+    },
+    {
+        "id": "8",
+        "section": "2",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": ""
+    },
+    {
+        "id": "9",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "7"
+    },
+    {
+        "id": "10",
+        "section": "2",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": ""
+    },
+    {
+        "id": "11",
+        "section": "3",
+        "rooms": "0",
+        "area": "26.62",
+        "similar": ""
+    },
+    {
+        "id": "12",
+        "section": "3",
+        "rooms": "2",
+        "area": "37.83",
+        "similar": ""
+    },
+    {
+        "id": "13",
+        "section": "3",
+        "rooms": "2",
+        "area": "33.458",
+        "similar": ""
+    },
+    {
+        "id": "14",
+        "section": "3",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "15",
+        "section": "3",
+        "rooms": "3",
+        "area": "58.53",
+        "similar": ""
+    },
+    {
+        "id": "16",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": "7"
+    },
+    {
+        "id": "17",
+        "section": "4",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": "8"
+    },
+    {
+        "id": "18",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "9"
+    },
+    {
+        "id": "19",
+        "section": "4",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": "10"
+    },
+    {
+        "id": "20",
+        "section": "5",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "21",
+        "section": "5",
+        "rooms": "3",
+        "area": "58.54",
+        "similar": ""
+    },
+    {
+        "id": "22",
+        "section": "5",
+        "rooms": "4",
+        "area": "74.72",
+        "similar": ""
+    },
+    {
+        "id": "1",
+        "section": "1",
+        "rooms": "1",
+        "area": "38.45",
+        "similar": ""
+    },
+    {
+        "id": "2",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": ""
+    },
+    {
+        "id": "3",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": ""
+    },
+    {
+        "id": "4",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": "3"
+    },
+    {
+        "id": "5",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": "2"
+    },
+    {
+        "id": "6",
+        "section": "1",
+        "rooms": "2",
+        "area": "44.58",
+        "similar": ""
+    },
+    {
+        "id": "7",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": ""
+    },
+    {
+        "id": "8",
+        "section": "2",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": ""
+    },
+    {
+        "id": "9",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "7"
+    },
+    {
+        "id": "10",
+        "section": "2",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": ""
+    },
+    {
+        "id": "11",
+        "section": "3",
+        "rooms": "0",
+        "area": "26.62",
+        "similar": ""
+    },
+    {
+        "id": "12",
+        "section": "3",
+        "rooms": "2",
+        "area": "37.83",
+        "similar": ""
+    },
+    {
+        "id": "13",
+        "section": "3",
+        "rooms": "2",
+        "area": "33.458",
+        "similar": ""
+    },
+    {
+        "id": "14",
+        "section": "3",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "15",
+        "section": "3",
+        "rooms": "3",
+        "area": "58.53",
+        "similar": ""
+    },
+    {
+        "id": "16",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": "7"
+    },
+    {
+        "id": "17",
+        "section": "4",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": "8"
+    },
+    {
+        "id": "18",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "9"
+    },
+    {
+        "id": "19",
+        "section": "4",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": "10"
+    },
+    {
+        "id": "20",
+        "section": "5",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "21",
+        "section": "5",
+        "rooms": "3",
+        "area": "58.54",
+        "similar": ""
+    },
+    {
+        "id": "22",
+        "section": "5",
+        "rooms": "4",
+        "area": "74.72",
+        "similar": ""
+    },
+    {
+        "id": "1",
+        "section": "1",
+        "rooms": "1",
+        "area": "38.45",
+        "similar": ""
+    },
+    {
+        "id": "2",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": ""
+    },
+    {
+        "id": "3",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": ""
+    },
+    {
+        "id": "4",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": "3"
+    },
+    {
+        "id": "5",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": "2"
+    },
+    {
+        "id": "6",
+        "section": "1",
+        "rooms": "2",
+        "area": "44.58",
+        "similar": ""
+    },
+    {
+        "id": "7",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": ""
+    },
+    {
+        "id": "8",
+        "section": "2",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": ""
+    },
+    {
+        "id": "9",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "7"
+    },
+    {
+        "id": "10",
+        "section": "2",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": ""
+    },
+    {
+        "id": "11",
+        "section": "3",
+        "rooms": "0",
+        "area": "26.62",
+        "similar": ""
+    },
+    {
+        "id": "12",
+        "section": "3",
+        "rooms": "2",
+        "area": "37.83",
+        "similar": ""
+    },
+    {
+        "id": "13",
+        "section": "3",
+        "rooms": "2",
+        "area": "33.458",
+        "similar": ""
+    },
+    {
+        "id": "14",
+        "section": "3",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "15",
+        "section": "3",
+        "rooms": "3",
+        "area": "58.53",
+        "similar": ""
+    },
+    {
+        "id": "16",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": "7"
+    },
+    {
+        "id": "17",
+        "section": "4",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": "8"
+    },
+    {
+        "id": "18",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "9"
+    },
+    {
+        "id": "19",
+        "section": "4",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": "10"
+    },
+    {
+        "id": "20",
+        "section": "5",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "21",
+        "section": "5",
+        "rooms": "3",
+        "area": "58.54",
+        "similar": ""
+    },
+    {
+        "id": "22",
+        "section": "5",
+        "rooms": "4",
+        "area": "74.72",
+        "similar": ""
+    },
+    {
+        "id": "1",
+        "section": "1",
+        "rooms": "1",
+        "area": "38.45",
+        "similar": ""
+    },
+    {
+        "id": "2",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": ""
+    },
+    {
+        "id": "3",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": ""
+    },
+    {
+        "id": "4",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": "3"
+    },
+    {
+        "id": "5",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": "2"
+    },
+    {
+        "id": "6",
+        "section": "1",
+        "rooms": "2",
+        "area": "44.58",
+        "similar": ""
+    },
+    {
+        "id": "7",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": ""
+    },
+    {
+        "id": "8",
+        "section": "2",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": ""
+    },
+    {
+        "id": "9",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "7"
+    },
+    {
+        "id": "10",
+        "section": "2",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": ""
+    },
+    {
+        "id": "11",
+        "section": "3",
+        "rooms": "0",
+        "area": "26.62",
+        "similar": ""
+    },
+    {
+        "id": "12",
+        "section": "3",
+        "rooms": "2",
+        "area": "37.83",
+        "similar": ""
+    },
+    {
+        "id": "13",
+        "section": "3",
+        "rooms": "2",
+        "area": "33.458",
+        "similar": ""
+    },
+    {
+        "id": "14",
+        "section": "3",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "15",
+        "section": "3",
+        "rooms": "3",
+        "area": "58.53",
+        "similar": ""
+    },
+    {
+        "id": "16",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": "7"
+    },
+    {
+        "id": "17",
+        "section": "4",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": "8"
+    },
+    {
+        "id": "18",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "9"
+    },
+    {
+        "id": "19",
+        "section": "4",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": "10"
+    },
+    {
+        "id": "20",
+        "section": "5",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "21",
+        "section": "5",
+        "rooms": "3",
+        "area": "58.54",
+        "similar": ""
+    },
+    {
+        "id": "22",
+        "section": "5",
+        "rooms": "4",
+        "area": "74.72",
+        "similar": ""
+    },
+    {
+        "id": "1",
+        "section": "1",
+        "rooms": "1",
+        "area": "38.45",
+        "similar": ""
+    },
+    {
+        "id": "2",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": ""
+    },
+    {
+        "id": "3",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": ""
+    },
+    {
+        "id": "4",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": "3"
+    },
+    {
+        "id": "5",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": "2"
+    },
+    {
+        "id": "6",
+        "section": "1",
+        "rooms": "2",
+        "area": "44.58",
+        "similar": ""
+    },
+    {
+        "id": "7",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": ""
+    },
+    {
+        "id": "8",
+        "section": "2",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": ""
+    },
+    {
+        "id": "9",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "7"
+    },
+    {
+        "id": "10",
+        "section": "2",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": ""
+    },
+    {
+        "id": "11",
+        "section": "3",
+        "rooms": "0",
+        "area": "26.62",
+        "similar": ""
+    },
+    {
+        "id": "12",
+        "section": "3",
+        "rooms": "2",
+        "area": "37.83",
+        "similar": ""
+    },
+    {
+        "id": "13",
+        "section": "3",
+        "rooms": "2",
+        "area": "33.458",
+        "similar": ""
+    },
+    {
+        "id": "14",
+        "section": "3",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "15",
+        "section": "3",
+        "rooms": "3",
+        "area": "58.53",
+        "similar": ""
+    },
+    {
+        "id": "16",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": "7"
+    },
+    {
+        "id": "17",
+        "section": "4",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": "8"
+    },
+    {
+        "id": "18",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "9"
+    },
+    {
+        "id": "19",
+        "section": "4",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": "10"
+    },
+    {
+        "id": "20",
+        "section": "5",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "21",
+        "section": "5",
+        "rooms": "3",
+        "area": "58.54",
+        "similar": ""
+    },
+    {
+        "id": "22",
+        "section": "5",
+        "rooms": "4",
+        "area": "74.72",
+        "similar": ""
+    },
+    {
+        "id": "1",
+        "section": "1",
+        "rooms": "1",
+        "area": "38.45",
+        "similar": ""
+    },
+    {
+        "id": "2",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": ""
+    },
+    {
+        "id": "3",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": ""
+    },
+    {
+        "id": "4",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": "3"
+    },
+    {
+        "id": "5",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": "2"
+    },
+    {
+        "id": "6",
+        "section": "1",
+        "rooms": "2",
+        "area": "44.58",
+        "similar": ""
+    },
+    {
+        "id": "7",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": ""
+    },
+    {
+        "id": "8",
+        "section": "2",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": ""
+    },
+    {
+        "id": "9",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "7"
+    },
+    {
+        "id": "10",
+        "section": "2",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": ""
+    },
+    {
+        "id": "11",
+        "section": "3",
+        "rooms": "0",
+        "area": "26.62",
+        "similar": ""
+    },
+    {
+        "id": "12",
+        "section": "3",
+        "rooms": "2",
+        "area": "37.83",
+        "similar": ""
+    },
+    {
+        "id": "13",
+        "section": "3",
+        "rooms": "2",
+        "area": "33.458",
+        "similar": ""
+    },
+    {
+        "id": "14",
+        "section": "3",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "15",
+        "section": "3",
+        "rooms": "3",
+        "area": "58.53",
+        "similar": ""
+    },
+    {
+        "id": "16",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": "7"
+    },
+    {
+        "id": "17",
+        "section": "4",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": "8"
+    },
+    {
+        "id": "18",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "9"
+    },
+    {
+        "id": "19",
+        "section": "4",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": "10"
+    },
+    {
+        "id": "20",
+        "section": "5",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "21",
+        "section": "5",
+        "rooms": "3",
+        "area": "58.54",
+        "similar": ""
+    },
+    {
+        "id": "22",
+        "section": "5",
+        "rooms": "4",
+        "area": "74.72",
+        "similar": ""
+    },
+    {
+        "id": "1",
+        "section": "1",
+        "rooms": "1",
+        "area": "38.45",
+        "similar": ""
+    },
+    {
+        "id": "2",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": ""
+    },
+    {
+        "id": "3",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": ""
+    },
+    {
+        "id": "4",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": "3"
+    },
+    {
+        "id": "5",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": "2"
+    },
+    {
+        "id": "6",
+        "section": "1",
+        "rooms": "2",
+        "area": "44.58",
+        "similar": ""
+    },
+    {
+        "id": "7",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": ""
+    },
+    {
+        "id": "8",
+        "section": "2",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": ""
+    },
+    {
+        "id": "9",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "7"
+    },
+    {
+        "id": "10",
+        "section": "2",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": ""
+    },
+    {
+        "id": "11",
+        "section": "3",
+        "rooms": "0",
+        "area": "26.62",
+        "similar": ""
+    },
+    {
+        "id": "12",
+        "section": "3",
+        "rooms": "2",
+        "area": "37.83",
+        "similar": ""
+    },
+    {
+        "id": "13",
+        "section": "3",
+        "rooms": "2",
+        "area": "33.458",
+        "similar": ""
+    },
+    {
+        "id": "14",
+        "section": "3",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "15",
+        "section": "3",
+        "rooms": "3",
+        "area": "58.53",
+        "similar": ""
+    },
+    {
+        "id": "16",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": "7"
+    },
+    {
+        "id": "17",
+        "section": "4",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": "8"
+    },
+    {
+        "id": "18",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "9"
+    },
+    {
+        "id": "19",
+        "section": "4",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": "10"
+    },
+    {
+        "id": "20",
+        "section": "5",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "21",
+        "section": "5",
+        "rooms": "3",
+        "area": "58.54",
+        "similar": ""
+    },
+    {
+        "id": "22",
+        "section": "5",
+        "rooms": "4",
+        "area": "74.72",
+        "similar": ""
+    },
+    {
+        "id": "1",
+        "section": "1",
+        "rooms": "1",
+        "area": "38.45",
+        "similar": ""
+    },
+    {
+        "id": "2",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": ""
+    },
+    {
+        "id": "3",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": ""
+    },
+    {
+        "id": "4",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": "3"
+    },
+    {
+        "id": "5",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": "2"
+    },
+    {
+        "id": "6",
+        "section": "1",
+        "rooms": "2",
+        "area": "44.58",
+        "similar": ""
+    },
+    {
+        "id": "7",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": ""
+    },
+    {
+        "id": "8",
+        "section": "2",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": ""
+    },
+    {
+        "id": "9",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "7"
+    },
+    {
+        "id": "10",
+        "section": "2",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": ""
+    },
+    {
+        "id": "11",
+        "section": "3",
+        "rooms": "0",
+        "area": "26.62",
+        "similar": ""
+    },
+    {
+        "id": "12",
+        "section": "3",
+        "rooms": "2",
+        "area": "37.83",
+        "similar": ""
+    },
+    {
+        "id": "13",
+        "section": "3",
+        "rooms": "2",
+        "area": "33.458",
+        "similar": ""
+    },
+    {
+        "id": "14",
+        "section": "3",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "15",
+        "section": "3",
+        "rooms": "3",
+        "area": "58.53",
+        "similar": ""
+    },
+    {
+        "id": "16",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": "7"
+    },
+    {
+        "id": "17",
+        "section": "4",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": "8"
+    },
+    {
+        "id": "18",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "9"
+    },
+    {
+        "id": "19",
+        "section": "4",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": "10"
+    },
+    {
+        "id": "20",
+        "section": "5",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "21",
+        "section": "5",
+        "rooms": "3",
+        "area": "58.54",
+        "similar": ""
+    },
+    {
+        "id": "22",
+        "section": "5",
+        "rooms": "4",
+        "area": "74.72",
+        "similar": ""
+    },
+    {
+        "id": "1",
+        "section": "1",
+        "rooms": "1",
+        "area": "38.45",
+        "similar": ""
+    },
+    {
+        "id": "2",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": ""
+    },
+    {
+        "id": "3",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": ""
+    },
+    {
+        "id": "4",
+        "section": "1",
+        "rooms": "0",
+        "area": "26.575",
+        "similar": "3"
+    },
+    {
+        "id": "5",
+        "section": "1",
+        "rooms": "1",
+        "area": "34.165",
+        "similar": "2"
+    },
+    {
+        "id": "6",
+        "section": "1",
+        "rooms": "2",
+        "area": "44.58",
+        "similar": ""
+    },
+    {
+        "id": "7",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": ""
+    },
+    {
+        "id": "8",
+        "section": "2",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": ""
+    },
+    {
+        "id": "9",
+        "section": "2",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "7"
+    },
+    {
+        "id": "10",
+        "section": "2",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": ""
+    },
+    {
+        "id": "11",
+        "section": "3",
+        "rooms": "0",
+        "area": "26.62",
+        "similar": ""
+    },
+    {
+        "id": "12",
+        "section": "3",
+        "rooms": "2",
+        "area": "37.83",
+        "similar": ""
+    },
+    {
+        "id": "13",
+        "section": "3",
+        "rooms": "2",
+        "area": "33.458",
+        "similar": ""
+    },
+    {
+        "id": "14",
+        "section": "3",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "15",
+        "section": "3",
+        "rooms": "3",
+        "area": "58.53",
+        "similar": ""
+    },
+    {
+        "id": "16",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.42",
+        "similar": "7"
+    },
+    {
+        "id": "17",
+        "section": "4",
+        "rooms": "2",
+        "area": "43.055",
+        "similar": "8"
+    },
+    {
+        "id": "18",
+        "section": "4",
+        "rooms": "2",
+        "area": "58.86",
+        "similar": "9"
+    },
+    {
+        "id": "19",
+        "section": "4",
+        "rooms": "2",
+        "area": "35.12",
+        "similar": "10"
+    },
+    {
+        "id": "20",
+        "section": "5",
+        "rooms": "2",
+        "area": "35.18",
+        "similar": ""
+    },
+    {
+        "id": "21",
+        "section": "5",
+        "rooms": "3",
+        "area": "58.54",
+        "similar": ""
+    },
+    {
+        "id": "22",
+        "section": "5",
+        "rooms": "4",
+        "area": "74.72"
+    }
+]
