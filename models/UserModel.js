@@ -1,4 +1,4 @@
-const { Schema, model } = require("mongoose");
+const { Schema, model } = require("mongoose")
 
 const UserSchema = new Schema({
   email: { type: String, unique: true, required: true },
@@ -6,6 +6,6 @@ const UserSchema = new Schema({
   isActivated: { type: Boolean, default: false },
   activationLink: { type: String },
   tgAccount: { type: String, default: null },
-});
+})
 
-module.exports = model("User", UserSchema);
+module.exports = model("User", UserSchema)

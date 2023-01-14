@@ -1,4 +1,4 @@
-const { Schema, model } = require("mongoose");
+const { Schema, model } = require("mongoose")
 
 const ApartSchema = new Schema({
   section: {
@@ -21,6 +21,6 @@ const ApartSchema = new Schema({
     type: Number,
     required: false,
   },
-});
+})
 
-module.exports = model("Apart", ApartSchema);
+module.exports = model("Apart", ApartSchema)

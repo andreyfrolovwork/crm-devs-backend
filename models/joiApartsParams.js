@@ -1,4 +1,4 @@
-const joi = require("joi");
+const joi = require("joi")
 
 const apartParamsSchema = joi.object({
   page: joi.number(),
@@ -13,6 +13,6 @@ const apartParamsSchema = joi.object({
     min: joi.number(),
     max: joi.number(),
   },
-});
+})
 
-module.exports = apartParamsSchema;
+module.exports = apartParamsSchema

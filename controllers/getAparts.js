@@ -1,23 +1,6 @@
 const models = require("../models/index.js")
 const apartsParamsSchema = require("../models/joiApartsParams.js")
-const { getIn, getMinMax } = require("../shared/helpers.js")
-
-function pagination(body) {
-  let limit = 10,
-    page = 1
-  if (body.limit) {
-    limit = body.limit
-  }
-  if (body.page) {
-    page = body.page
-  }
-  const skip = body.page * body.limit - body.limit
-  return {
-    page,
-    limit,
-    skip,
-  }
-}
+const { getIn, getMinMax, pagination } = require("../shared/helpers.js")
 
 async function getAparts(req, res, next) {
   try {
