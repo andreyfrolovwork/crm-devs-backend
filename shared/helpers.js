@@ -1,9 +1,22 @@
+function getSort(body) {
+  const result = {}
+  if (body.sortBy && body.orderBy) {
+    if (body.orderBy === "asc") {
+      result[body.sortBy] = 1
+    }
+    if (body.orderBy === "desc") {
+      result[body.sortBy] = -1
+    }
+  }
+  return result
+}
+
 function getMinMax(body, property) {
   const result = {}
   if (body[property]) {
     result[property] = {
-      $gte: body[property].min,
-      $lte: body[property].max,
+      $gte: body[property][0],
+      $lte: body[property][1],
     }
   }
   return result
@@ -28,22 +41,23 @@ function getProp(body, property) {
 }
 
 function pagination(body) {
-  let limit = 10,
+  let rowsPerPage = 10,
     page = 1
-  if (body.limit) {
-    limit = body.limit
+  if (body.rowsPerPage) {
+    rowsPerPage = body.rowsPerPage
   }
   if (body.page) {
     page = body.page
   }
-  const skip = body.page * body.limit - body.limit
+  const skip = body.page * body.rowsPerPage - body.rowsPerPage
   return {
     page,
-    limit,
+    rowsPerPage,
     skip,
   }
 }
 
+module.exports.getSort = getSort
 module.exports.getMinMax = getMinMax
 module.exports.getIn = getIn
 module.exports.getProp = getProp

@@ -13,13 +13,13 @@ const ApartSchema = new Schema({
     type: Number,
     required: true,
   },
-  similar: {
-    type: Number,
-    required: false,
-  },
   price: {
     type: Number,
     required: false,
+  },
+  floor: {
+    type: Number,
+    required: true,
   },
 })
 

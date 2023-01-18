@@ -7,6 +7,8 @@ async function getFilters() {
         _id: null,
         sections: { $addToSet: "$section" },
         rooms: { $addToSet: "$rooms" },
+        floorMax: { $max: "$floor" },
+        floorMin: { $min: "$floor" },
         priceMax: { $max: "$price" },
         priceMin: { $min: "$price" },
         areaMax: { $max: "$area" },
