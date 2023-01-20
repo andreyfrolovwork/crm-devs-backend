@@ -13,6 +13,8 @@ app.use(
     origin: process.env.CLIENT_URL,
   })
 )
+app.use("/images", express.static("images"))
+
 routes(app)
 app.use(errorMiddleware)
 module.exports = app

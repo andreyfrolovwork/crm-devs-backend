@@ -1,6 +1,7 @@
 const apartsParamsSchema = require("../models/joiApartsParams.js")
-const getQueryAparts = require("./getQueryAparts.js")
+
 const cookFilters = require("./cookFilters.js")
+const { getQueryAparts } = require("./getQueryAparts.js")
 
 async function getAparts(req, res, next) {
   try {
