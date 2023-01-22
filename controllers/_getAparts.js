@@ -3,7 +3,7 @@ const apartsParamsSchema = require("../models/joiApartsParams.js")
 const cookFilters = require("./cookFilters.js")
 const { getQueryAparts } = require("./getQueryAparts.js")
 
-async function getAparts(req, res, next) {
+async function _getAparts(req, res, next) {
   try {
     const { body } = req
     await apartsParamsSchema.validateAsync(body)
@@ -19,4 +19,4 @@ async function getAparts(req, res, next) {
   }
 }
 
-module.exports.getAparts = getAparts
+module.exports.getAparts = _getAparts
