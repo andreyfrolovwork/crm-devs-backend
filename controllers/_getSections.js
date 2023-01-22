@@ -6,10 +6,20 @@ async function getSections(req, res, next) {
   try {
     const { body } = req
     await sectionParams.validateAsync(body)
-    const sections = await models.section.find({
+    const section = await models.section.findOne({
       section: body.section,
+      "sections.show": false,
     })
-    res.json(sections[0])
+    const filteredSections = await models.section.findOne(
+      {
+        section: body.section,
+        "sections.show": false,
+      },
+      { "sections.$": 1 }
+    )
+    const query = await Promise.all([section, filteredSections])
+    const sectionWithFilteredSections = { ...query[0]._doc, sections: query[1]._doc.sections }
+    res.json(sectionWithFilteredSections)
   } catch (e) {
     next(e)
   }
