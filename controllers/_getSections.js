@@ -1,6 +1,7 @@
 const models = require("../models/index.js")
-const joi = require("joi")
 const sectionParams = require("../models/joiSectionParams.js")
+const soldClass = " sold"
+const soldText = "Обьект продан"
 
 async function getSections(req, res, next) {
   try {
@@ -8,21 +9,26 @@ async function getSections(req, res, next) {
     await sectionParams.validateAsync(body)
     const section = await models.section.findOne({
       section: body.section,
-      "sections.show": false,
     })
-    const filteredSections = await models.section.findOne(
-      {
-        section: body.section,
-        "sections.show": false,
-      },
-      { "sections.$": 1 }
-    )
-    const query = await Promise.all([section, filteredSections])
-    const sectionWithFilteredSections = { ...query[0]._doc, sections: query[1]._doc.sections }
-    res.json(sectionWithFilteredSections)
+    const sectionFiltered = {
+      ...section._doc,
+      sections: section.sections.filter(delNotShow).map(addSoldClassIfSolded),
+    }
+    res.json(sectionFiltered)
   } catch (e) {
     next(e)
   }
 }
 
 module.exports = getSections
+
+const delNotShow = (el) => el.show
+function addSoldClassIfSolded(el) {
+  if (el.sold) {
+    el.toolTipClass = el.toolTipClass + soldClass
+    el.toolTipText = soldText
+    return el
+  } else {
+    return el
+  }
+}
