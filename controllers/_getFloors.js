@@ -5,13 +5,17 @@ async function getFloors(req, res, next) {
   try {
     const { body } = req
     await floorParams.validateAsync(body)
-    const apartOnFloor = await models.aparts.find({
-      section: body.section,
-      floor: body.floor,
-    })
-    const section = await models.section.find({
-      num: "10" + body.section,
-    })
+    const apartOnFloor = await models.aparts
+      .find({
+        section: body.section,
+        floor: body.floor,
+      })
+      .lean()
+    const section = await models.section
+      .find({
+        num: "10" + body.section,
+      })
+      .lean()
 
     const sectionResult = section[0].sections
       .map((section, i) => {
