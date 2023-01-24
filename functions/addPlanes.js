@@ -1,23 +1,6 @@
 require("dotenv").config()
-const pathArray = require("./path1.js")
-
-function getFloor(i) {
-  if (i < 10) {
-    return i + 1
-  } else {
-    return i + 1 - 10
-  }
-}
-
-function getSection(i) {
-  if (i < 10) {
-    return 1
-  } else {
-    return 2
-  }
-}
-
-const holes = pathArray.map((path, i) => {
+const pathArray = require("./sections.js")
+const holes = pathArray[5].map((path, i) => {
   return {
     classNameHoles: `polygon house${i}`,
     classNameShape: "polygon shape",
@@ -27,12 +10,11 @@ const holes = pathArray.map((path, i) => {
     sold: false,
     toolTipClass: `tooltip house${i}-tooltip`,
     idToolTip: `house${i}-tooltip`,
-    toolTipText: `Площадка номер ${i}`,
+    toolTipText: `floor${i}`,
     routeTo: {
-      path: "/floors",
+      path: "/aparts",
       query: {
-        section: getSection(i),
-        floor: getFloor(i),
+        apartments: i,
       },
     },
   }
@@ -48,9 +30,9 @@ const start = async () => {
       useNewUrlParser: true,
     })
     const result = await models.section.insertMany({
-      num: 1,
-      sectionImage: "section-1.jpg",
-      sectionImageSmall: "section-1_small.jpg",
+      num: 106,
+      sectionImage: "section-1_plane.svg",
+      sectionImageSmall: "section-1_plane.svg",
       sections: holes,
     })
     debugger

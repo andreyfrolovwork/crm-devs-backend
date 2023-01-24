@@ -9,12 +9,7 @@ const start = async () => {
     await mongoose.connect(process.env.DB_URL, {
       useNewUrlParser: true,
     })
-    const contents = await readFile("./apartData.json", { encoding: "utf8" })
-    const text = contents.slice(1)
-    const json = JSON.parse(text)
-
-    await models.aparts.insertMany(json)
-    const aparts = await models.aparts.find({})
+    const result = await models.section.find({})
     debugger
   } catch (e) {
     console.log(e)

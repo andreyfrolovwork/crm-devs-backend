@@ -8,7 +8,7 @@ async function getSections(req, res, next) {
     const { body } = req
     await sectionParams.validateAsync(body)
     const section = await models.section.findOne({
-      section: body.section,
+      num: body.section,
     })
     const sectionFiltered = {
       ...section._doc,
