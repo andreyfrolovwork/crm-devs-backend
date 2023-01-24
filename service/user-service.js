@@ -1,4 +1,4 @@
-const UserModel = require("../models/UserModel.js")
+const UserModel = require("../models/mongoUserSchema.js")
 const bcrypt = require("bcrypt")
 const uuid = require("uuid")
 const mailService = require("./mail-service")

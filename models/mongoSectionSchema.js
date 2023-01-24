@@ -1,6 +1,6 @@
 const { Schema, model } = require("mongoose")
 
-const sectionSchema = new Schema({
+const mongoSectionSchema = new Schema({
   classNameHoles: {
     type: String,
     required: true,
@@ -61,6 +61,6 @@ const sectionsSchema = new Schema({
     type: String,
     required: true,
   },
-  sections: [sectionSchema],
+  sections: [mongoSectionSchema],
 })
 module.exports = model("section", sectionsSchema)

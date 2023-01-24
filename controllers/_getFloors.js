@@ -17,6 +17,7 @@ async function getFloors(req, res, next) {
       .map((section, i) => {
         const apart = apartOnFloor.find((el) => el.planNum === i)
         if (apart.show) {
+          section.apartId = apart._id
           if (apart.sold) {
             section.toolTipText = "Продано"
             return section

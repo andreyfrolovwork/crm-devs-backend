@@ -5,15 +5,19 @@ const ApartSchema = new Schema({
     type: Number,
     required: true,
   },
+  type: {
+    type: String,
+    required: true,
+  },
   section: {
     type: Number,
     required: true,
   },
   rooms: {
-    type: String,
+    type: Number,
     required: true,
   },
-  area1: {
+  area: {
     type: Number,
     required: true,
   },

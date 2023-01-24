@@ -1,13 +1,15 @@
-const tokens = require("./token-model.js")
-const users = require("./UserModel.js")
-const aparts = require("./Apartment.js")
-const chatmes = require("./ChatMessage.js")
-const section = require("./sectionSchema.js")
+const tokens = require("./mongoTokenSchema.js")
+const users = require("./mongoUserSchema.js")
+const aparts = require("./mongoApartmentsSchema.js")
+const chatmes = require("./mongoChatMessageSchema.js")
+const section = require("./mongoSectionSchema.js")
+const test = require("./mongoTestSchema.js")
 const models = {
   users,
   tokens,
   aparts,
   chatmes,
   section,
+  test,
 }
 module.exports = models
