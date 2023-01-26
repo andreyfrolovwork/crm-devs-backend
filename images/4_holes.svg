@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="600px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1000 600"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-miterlimit:22.9256;stroke-opacity:0.501961}
+    .fil0 {fill:#E6E6E6;fill-opacity:0.501961}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Секция_x0020_4">
+   <g id="заливка">
+    <polygon class="fil0 str0" points="876.36,298.48 714.47,298.5 714.46,244.57 549.46,244.64 549.46,82.69 549.5,27.19 711.43,27.19 711.43,82.7 876.39,82.69 "/>
+    <polygon class="fil0 str0" points="637.45,522.59 637.45,575.07 771.92,575.07 771.9,519.5 876.39,519.58 876.37,301.54 664.95,301.51 665,522.71 "/>
+    <polygon class="fil0 str0" points="499.99,301.5 661.94,301.5 661.94,519.58 634.36,519.51 634.44,575.07 499.98,575.07 "/>
+    <polygon class="fil0 str0" points="329.53,301.51 496.98,301.51 496.98,575.07 357.01,575.07 357.02,519.56 329.53,519.58 "/>
+    <polygon class="fil0 str0" points="109.58,301.51 326.51,301.51 326.5,522.67 354,522.59 354,575.07 219.55,575.07 219.55,519.53 109.57,519.58 "/>
+    <polygon class="fil0 str0" points="109.61,82.71 219.51,82.79 219.57,27.2 381.48,27.22 381.48,244.62 271.27,244.62 271.51,298.49 109.58,298.49 "/>
+   </g>
+  </g>
+ </g>
+</svg>
