@@ -24,9 +24,12 @@ async function getFloors(req, res, next) {
           section.apartId = apart._id
           if (apart.sold) {
             section.toolTipText = "Продано"
+            section.toolTipClass = section.toolTipClass + " sold"
             return section
           } else {
-            section.toolTipText = `Квартира № ${apart.number} ${apart.area2}м2 ${apart.price} рублей`
+            section.toolTipText = `Квартира № ${apart.number} ${apart.area2}м2 ${String(apart.price).toLocaleString(
+              "ru"
+            )} рублей`
             return section
           }
         }
