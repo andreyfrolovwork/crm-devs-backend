@@ -1,5 +1,6 @@
 const models = require("../models/index.js")
 const floorParams = require("../models/joiFloorParams.js")
+const cookTitle = require("../functions/cookTitle.js")
 
 async function getFloors(req, res, next) {
   try {
@@ -13,7 +14,7 @@ async function getFloors(req, res, next) {
       .lean()
     const section = await models.section
       .find({
-        num: "10" + body.section,
+        num: `10${body.section}`,
       })
       .lean()
 
@@ -24,13 +25,21 @@ async function getFloors(req, res, next) {
           section.apartId = apart._id
           if (apart.sold) {
             section.toolTipText = "Продано"
-            section.toolTipClass = section.toolTipClass + " sold"
+            section.toolTipClass = `${section.toolTipClass} sold`
             return section
           } else {
             section.toolTipText = `Квартира № ${apart.number} ${apart.area2}м2 ${String(apart.price).toLocaleString(
               "ru"
             )} рублей`
-            return section
+            const result = {
+              ...section,
+              ...apart,
+              toolTipText: `Квартира № ${apart.number} ${apart.area2}м2 ${String(apart.price).toLocaleString(
+                "ru"
+              )} рублей`,
+            }
+            result.title = cookTitle(apart)
+            return result
           }
         }
       })
