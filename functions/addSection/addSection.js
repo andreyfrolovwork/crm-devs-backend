@@ -1,5 +1,8 @@
 require("dotenv").config()
-const pathArray = require("./path1.js")
+const pathArray = require("./path2.js")
+const mongoose = require("mongoose")
+const models = require("../../models/index.js")
+const { getSection, getFloor } = require("./functions.js")
 
 const holes = pathArray.map((path, i) => {
   return {
@@ -11,7 +14,7 @@ const holes = pathArray.map((path, i) => {
     sold: false,
     toolTipClass: `tooltip house${i}-tooltip`,
     idToolTip: `house${i}-tooltip`,
-    toolTipText: `Площадка номер ${i}`,
+    toolTipText: `Площадка номер ${i + 1}`,
     routeTo: {
       path: "/floors",
       query: {
@@ -22,20 +25,17 @@ const holes = pathArray.map((path, i) => {
   }
 })
 
-const mongoose = require("mongoose")
-const { readFile } = require("node:fs/promises")
-const models = require("../models/index.js")
-
 const start = async () => {
   try {
     await mongoose.connect(process.env.DB_URL, {
       useNewUrlParser: true,
     })
-    const result = await models.section.insertMany({
-      num: 1,
-      sectionImage: "section-1.jpg",
-      sectionImageSmall: "section-1_small.jpg",
+    await models.section.insertMany({
+      num: 3,
+      sectionImage: "n_all_sections.jpg",
+      sectionImageSmall: "n_all_sections.jpg",
       sections: holes,
+      sectionsLabelHoles: holes,
     })
     debugger
   } catch (e) {
