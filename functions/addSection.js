@@ -1,22 +1,6 @@
 require("dotenv").config()
 const pathArray = require("./path1.js")
 
-function getFloor(i) {
-  if (i < 10) {
-    return i + 1
-  } else {
-    return i + 1 - 10
-  }
-}
-
-function getSection(i) {
-  if (i < 10) {
-    return 1
-  } else {
-    return 2
-  }
-}
-
 const holes = pathArray.map((path, i) => {
   return {
     classNameHoles: `polygon house${i}`,
