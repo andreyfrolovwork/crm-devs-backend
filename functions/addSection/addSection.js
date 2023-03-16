@@ -14,7 +14,7 @@ const holes = pathArray.map((path, i) => {
     sold: false,
     toolTipClass: `tooltip house${i}-tooltip`,
     idToolTip: `house${i}-tooltip`,
-    toolTipText: `Площадка номер ${i + 1}`,
+    toolTipText: `Этаж ${getFloor(i)} Секция ${getSection(i)}`,
     routeTo: {
       path: "/floors",
       query: {
@@ -32,8 +32,8 @@ const start = async () => {
     })
     await models.section.insertMany({
       num: 3,
-      sectionImage: "n_all_sections.jpg",
-      sectionImageSmall: "n_all_sections.jpg",
+      sectionImage: "n_all_sections.webp",
+      sectionImageSmall: "n_all_sections.webp",
       sections: holes,
       sectionsLabelHoles: holes,
     })
