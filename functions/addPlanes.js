@@ -1,6 +1,6 @@
-require("dotenv").config()
 const pathArray = require("./sections.js")
-const holes = pathArray[5].map((path, i) => {
+
+const holes = pathArray[4].map((path, i) => {
   return {
     classNameHoles: `polygon house${i}`,
     classNameShape: "polygon shape",
@@ -26,7 +26,7 @@ const models = require("../models/index.js")
 
 const start = async () => {
   try {
-    await mongoose.connect(process.env.DB_URL, {
+    await mongoose.connect("mongodb://127.0.0.1:27017/test", {
       useNewUrlParser: true,
     })
     const result = await models.section.insertMany({

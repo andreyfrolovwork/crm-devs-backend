@@ -15,13 +15,14 @@ async function getFloors(req, res, next) {
     const section = await models.section
       .find({
         num: `10${body.section}`,
+        //num: `106`,
       })
       .lean()
 
     const sectionResult = section[0].sections
       .map((section, i) => {
         const apart = apartOnFloor.find((el) => el.planNum === i)
-        if (apart.show) {
+        if (apart && apart.show) {
           section.apartId = apart._id
           if (apart.sold) {
             section.toolTipText = "Продано"
@@ -39,6 +40,7 @@ async function getFloors(req, res, next) {
               )} рублей`,
             }
             result.title = cookTitle(apart)
+            //result.title = section.classNameHoles
             return result
           }
         }

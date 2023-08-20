@@ -27,7 +27,7 @@ const holes = pathArray.map((path, i) => {
 
 const start = async () => {
   try {
-    await mongoose.connect(process.env.DB_URL, {
+    await mongoose.connect("mongodb://127.0.0.1:27017/test", {
       useNewUrlParser: true,
     })
     await models.section.insertMany({

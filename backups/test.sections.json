@@ -1,0 +1,1172 @@
+[{
+  "_id": {
+    "$oid": "64e1c77d31327c83ab6fc5de"
+  },
+  "num": 3,
+  "sectionImage": "n_all_sections.webp",
+  "sectionImageSmall": "n_all_sections.webp",
+  "sections": [
+    {
+      "classNameHoles": "polygon house0",
+      "classNameShape": "polygon shape",
+      "idShape": "house0",
+      "d": "423.41,758 472.01,758.03 472.06,704.25 423.44,704.23 407.45,710.94 155.98,710.79 155.98,704.11 125.62,704.1 125.61,757.83 407.43,758 423.31,757.9",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house0-tooltip",
+      "idToolTip": "house0-tooltip",
+      "toolTipText": "Этаж 1 Секция 1",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 1,
+          "floor": 1
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5df"
+      }
+    },
+    {
+      "classNameHoles": "polygon house1",
+      "classNameShape": "polygon shape",
+      "idShape": "house1",
+      "d": "125.62,704.1 125.63,654.45 155.99,654.45 155.98,659.84 407.48,659.85 423.47,654.48 472.1,654.48 472.06,704.25 423.44,704.23 407.45,710.94 155.98,710.79 155.98,704.11",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house1-tooltip",
+      "idToolTip": "house1-tooltip",
+      "toolTipText": "Этаж 2 Секция 1",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 1,
+          "floor": 2
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5e0"
+      }
+    },
+    {
+      "classNameHoles": "polygon house2",
+      "classNameShape": "polygon shape",
+      "idShape": "house2",
+      "d": "125.63,654.45 125.64,604.84 155.99,604.85 155.99,609.17 407.51,609.15 423.5,604.91 472.14,604.92 472.1,654.48 423.47,654.48 407.48,659.85 155.98,659.84 155.99,654.45",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house2-tooltip",
+      "idToolTip": "house2-tooltip",
+      "toolTipText": "Этаж 3 Секция 1",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 1,
+          "floor": 3
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5e1"
+      }
+    },
+    {
+      "classNameHoles": "polygon house3",
+      "classNameShape": "polygon shape",
+      "idShape": "house3",
+      "d": "125.64,604.84 125.65,555.79 155.99,555.79 155.99,558.43 407.54,558.38 423.53,555.82 472.19,555.83 472.14,604.92 423.5,604.91 407.51,609.15 155.99,609.17 155.99,604.85",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house3-tooltip",
+      "idToolTip": "house3-tooltip",
+      "toolTipText": "Этаж 4 Секция 1",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 1,
+          "floor": 4
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5e2"
+      }
+    },
+    {
+      "classNameHoles": "polygon house4",
+      "classNameShape": "polygon shape",
+      "idShape": "house4",
+      "d": "125.65,555.79 125.66,507.64 472.23,507.59 472.22,555.83 423.53,555.82 407.54,558.38 155.99,558.43 155.99,555.79",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house4-tooltip",
+      "idToolTip": "house4-tooltip",
+      "toolTipText": "Этаж 5 Секция 1",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 1,
+          "floor": 5
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5e3"
+      }
+    },
+    {
+      "classNameHoles": "polygon house5",
+      "classNameShape": "polygon shape",
+      "idShape": "house5",
+      "d": "125.66,507.64 125.68,456.52 472.27,456.59 472.23,507.59",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house5-tooltip",
+      "idToolTip": "house5-tooltip",
+      "toolTipText": "Этаж 6 Секция 1",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 1,
+          "floor": 6
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5e4"
+      }
+    },
+    {
+      "classNameHoles": "polygon house6",
+      "classNameShape": "polygon shape",
+      "idShape": "house6",
+      "d": "125.68,456.52 125.69,406.89 156,407.08 156,405.86 407.63,405.75 423.62,406.96 472.31,406.97 472.27,456.59 407.6,456.57 156,456.52",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house6-tooltip",
+      "idToolTip": "house6-tooltip",
+      "toolTipText": "Этаж 7 Секция 1",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 1,
+          "floor": 7
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5e5"
+      }
+    },
+    {
+      "classNameHoles": "polygon house7",
+      "classNameShape": "polygon shape",
+      "idShape": "house7",
+      "d": "156,358.27 156,354.75 407.66,354.76 423.65,358.24 472.4,358.23 472.31,406.97 423.62,406.96 407.63,405.75 156,405.73 156,407.08 125.69,406.89 125.7,358.27",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house7-tooltip",
+      "idToolTip": "house7-tooltip",
+      "toolTipText": "Этаж 8 Секция 1",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 1,
+          "floor": 8
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5e6"
+      }
+    },
+    {
+      "classNameHoles": "polygon house8",
+      "classNameShape": "polygon shape",
+      "idShape": "house8",
+      "d": "125.7,358.27 125.71,308.69 156.01,308.67 156.01,304.06 407.69,304.13 423.68,308.5 472.39,308.47 472.4,358.23 423.65,358.24 407.66,354.76 156,354.75 156,358.27",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house8-tooltip",
+      "idToolTip": "house8-tooltip",
+      "toolTipText": "Этаж 9 Секция 1",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 1,
+          "floor": 9
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5e7"
+      }
+    },
+    {
+      "classNameHoles": "polygon house9",
+      "classNameShape": "polygon shape",
+      "idShape": "house9",
+      "d": "125.71,308.69 125.72,260.25 156.01,260.25 156.01,248.68 407.73,248.83 423.71,260.28 472.43,260.28 472.39,308.47 423.68,308.5 407.69,304.13 156.01,304.06 156.01,308.67",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house9-tooltip",
+      "idToolTip": "house9-tooltip",
+      "toolTipText": "Этаж 10 Секция 1",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 1,
+          "floor": 10
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5e8"
+      }
+    },
+    {
+      "classNameHoles": "polygon house10",
+      "classNameShape": "polygon shape",
+      "idShape": "house10",
+      "d": "815.59,758.24 472.01,758.03 472.06,704.25 507.23,704.27 507.23,710.71 758.75,710.66 765.26,704.38 815.43,704.4",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house10-tooltip",
+      "idToolTip": "house10-tooltip",
+      "toolTipText": "Этаж 1 Секция 2",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 2,
+          "floor": 1
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5e9"
+      }
+    },
+    {
+      "classNameHoles": "polygon house11",
+      "classNameShape": "polygon shape",
+      "idShape": "house11",
+      "d": "472.06,704.25 472.1,654.48 507.22,654.49 507.22,659.85 758.8,659.86 765.27,654.52 815.29,654.52 815.43,704.4 765.26,704.38 758.75,710.66 507.23,710.71 507.23,704.27",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house11-tooltip",
+      "idToolTip": "house11-tooltip",
+      "toolTipText": "Этаж 2 Секция 2",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 2,
+          "floor": 2
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5ea"
+      }
+    },
+    {
+      "classNameHoles": "polygon house12",
+      "classNameShape": "polygon shape",
+      "idShape": "house12",
+      "d": "472.45,654.48 472.14,604.92 507.2,604.93 507.2,609.14 758.84,609.13 765.28,604.99 815.15,605 815.29,654.52 765.27,654.52 758.8,659.86 507.22,659.85 507.22,654.49",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house12-tooltip",
+      "idToolTip": "house12-tooltip",
+      "toolTipText": "Этаж 3 Секция 2",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 2,
+          "floor": 3
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5eb"
+      }
+    },
+    {
+      "classNameHoles": "polygon house13",
+      "classNameShape": "polygon shape",
+      "idShape": "house13",
+      "d": "472.14,604.92 472.19,555.83 507.19,555.83 507.19,558.36 758.89,558.31 765.28,555.86 815.01,555.72 815.15,605 765.28,604.99 758.84,609.13 507.2,609.14 507.2,604.93",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house13-tooltip",
+      "idToolTip": "house13-tooltip",
+      "toolTipText": "Этаж 4 Секция 2",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 2,
+          "floor": 4
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5ec"
+      }
+    },
+    {
+      "classNameHoles": "polygon house14",
+      "classNameShape": "polygon shape",
+      "idShape": "house14",
+      "d": "472.19,555.83 472.23,507.59 814.87,507.54 815.01,555.87 765.28,555.86 758.89,558.31 507.19,558.36 507.19,555.83",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house14-tooltip",
+      "idToolTip": "house14-tooltip",
+      "toolTipText": "Этаж 5 Секция 2",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 2,
+          "floor": 5
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5ed"
+      }
+    },
+    {
+      "classNameHoles": "polygon house15",
+      "classNameShape": "polygon shape",
+      "idShape": "house15",
+      "d": "472.23,507.59 472.27,456.59 814.72,456.66 814.87,507.54",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house15-tooltip",
+      "idToolTip": "house15-tooltip",
+      "toolTipText": "Этаж 6 Секция 2",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 2,
+          "floor": 6
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5ee"
+      }
+    },
+    {
+      "classNameHoles": "polygon house16",
+      "classNameShape": "polygon shape",
+      "idShape": "house16",
+      "d": "472.27,456.59 472.31,406.97 507.15,406.97 507.15,405.47 759.03,405.61 765.3,407.04 814.58,407.05 814.72,456.66 758.98,456.65",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house16-tooltip",
+      "idToolTip": "house16-tooltip",
+      "toolTipText": "Этаж 7 Секция 2",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 2,
+          "floor": 7
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5ef"
+      }
+    },
+    {
+      "classNameHoles": "polygon house17",
+      "classNameShape": "polygon shape",
+      "idShape": "house17",
+      "d": "472.31,406.97 472.4,358.23 507.14,358.23 507.14,354.76 759.08,354.77 765.31,358.2 814.44,358.2 814.58,407.05 765.3,407.04 759.03,405.61 507.15,405.47 507.15,406.98",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house17-tooltip",
+      "idToolTip": "house17-tooltip",
+      "toolTipText": "Этаж 8 Секция 2",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 2,
+          "floor": 8
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5f0"
+      }
+    },
+    {
+      "classNameHoles": "polygon house18",
+      "classNameShape": "polygon shape",
+      "idShape": "house18",
+      "d": "472.4,358.23 472.39,308.47 507.13,308.45 507.13,304.16 759.12,304.23 765.32,308.28 814.29,308.25 814.44,358.2 765.31,358.2 759.08,354.77 507.14,354.76 507.14,358.23",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house18-tooltip",
+      "idToolTip": "house18-tooltip",
+      "toolTipText": "Этаж 9 Секция 2",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 2,
+          "floor": 9
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5f1"
+      }
+    },
+    {
+      "classNameHoles": "polygon house19",
+      "classNameShape": "polygon shape",
+      "idShape": "house19",
+      "d": "472.43,260.28 507.11,260.29 507.11,248.54 759.17,248.69 765.32,260.31 814.16,260.32 814.29,308.25 765.32,308.28 759.12,304.23 507.13,304.16 507.13,308.45 472.39,308.47",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house19-tooltip",
+      "idToolTip": "house19-tooltip",
+      "toolTipText": "Этаж 10 Секция 2",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 2,
+          "floor": 10
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5f2"
+      }
+    },
+    {
+      "classNameHoles": "polygon house20",
+      "classNameShape": "polygon shape",
+      "idShape": "house20",
+      "d": "815.59,758.24 815.43,704.4 858.18,704.42 858.17,710.64 1104.17,710.59 1110.17,704.53 1159.31,704.55 1159.42,758.45",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house20-tooltip",
+      "idToolTip": "house20-tooltip",
+      "toolTipText": "Этаж 1 Секция 3",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 3,
+          "floor": 1
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5f3"
+      }
+    },
+    {
+      "classNameHoles": "polygon house21",
+      "classNameShape": "polygon shape",
+      "idShape": "house21",
+      "d": "815.43,704.4 815.29,654.52 858.21,654.53 858.21,659.87 1104.2,659.88 1110.2,654.56 1159.2,654.56 1159.31,704.42 1110.17,704.53 1104.17,710.59 858.17,710.64 858.18,704.42",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house21-tooltip",
+      "idToolTip": "house21-tooltip",
+      "toolTipText": "Этаж 2 Секция 3",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 3,
+          "floor": 2
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5f4"
+      }
+    },
+    {
+      "classNameHoles": "polygon house22",
+      "classNameShape": "polygon shape",
+      "idShape": "house22",
+      "d": "815.29,654.52 815.15,605 858.24,605.01 858.23,609.12 1104.23,609.1 1110.23,605.07 1159.1,604.96 1159.2,654.56 1110.2,654.56 1104.2,659.88 858.21,659.87 858.21,654.53",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house22-tooltip",
+      "idToolTip": "house22-tooltip",
+      "toolTipText": "Этаж 3 Секция 3",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 3,
+          "floor": 3
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5f5"
+      }
+    },
+    {
+      "classNameHoles": "polygon house23",
+      "classNameShape": "polygon shape",
+      "idShape": "house23",
+      "d": "815.15,605 815.01,555.87 858.27,555.87 858.27,558.29 1104.27,558.24 1110.26,555.9 1158.99,555.91 1159.1,605.08 1110.23,605.07 1104.23,609.1 858.23,609.12 858.24,605.01",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house23-tooltip",
+      "idToolTip": "house23-tooltip",
+      "toolTipText": "Этаж 4 Секция 3",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 3,
+          "floor": 4
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5f6"
+      }
+    },
+    {
+      "classNameHoles": "polygon house24",
+      "classNameShape": "polygon shape",
+      "idShape": "house24",
+      "d": "815.01,555.87 814.87,507.54 858.29,507.53 1158.89,507.49 1158.99,555.91 1110.26,555.9 1104.27,558.24 858.27,558.29 858.27,555.87",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house24-tooltip",
+      "idToolTip": "house24-tooltip",
+      "toolTipText": "Этаж 5 Секция 3",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 3,
+          "floor": 5
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5f7"
+      }
+    },
+    {
+      "classNameHoles": "polygon house25",
+      "classNameShape": "polygon shape",
+      "idShape": "house25",
+      "d": "814.87,507.54 814.72,456.66 1158.78,456.73 1158.89,507.49",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house25-tooltip",
+      "idToolTip": "house25-tooltip",
+      "toolTipText": "Этаж 6 Секция 3",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 3,
+          "floor": 6
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5f8"
+      }
+    },
+    {
+      "classNameHoles": "polygon house26",
+      "classNameShape": "polygon shape",
+      "idShape": "house26",
+      "d": "814.72,456.66 814.58,407.05 858.36,407.06 858.36,405.56 1104.37,405.46 1110.35,407.12 1158.68,407.13 1158.78,456.73 1104.33,456.72",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house26-tooltip",
+      "idToolTip": "house26-tooltip",
+      "toolTipText": "Этаж 7 Секция 3",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 3,
+          "floor": 7
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5f9"
+      }
+    },
+    {
+      "classNameHoles": "polygon house27",
+      "classNameShape": "polygon shape",
+      "idShape": "house27",
+      "d": "814.58,407.05 814.44,358.2 858.38,358.19 858.39,354.78 1104.4,354.79 1110.38,358.16 1158.57,358.16 1158.68,407.13 1110.35,407.12 1104.37,405.46 858.36,405.56 858.36,407.06",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house27-tooltip",
+      "idToolTip": "house27-tooltip",
+      "toolTipText": "Этаж 8 Секция 3",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 3,
+          "floor": 8
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5fa"
+      }
+    },
+    {
+      "classNameHoles": "polygon house28",
+      "classNameShape": "polygon shape",
+      "idShape": "house28",
+      "d": "814.44,358.2 814.29,308.25 858.41,308.23 858.42,304.26 1104.44,304.33 1110.41,308.07 1158.47,308.04 1158.57,358.16 1110.38,358.16 1104.4,354.79 858.39,354.78 858.38,358.19",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house28-tooltip",
+      "idToolTip": "house28-tooltip",
+      "toolTipText": "Этаж 9 Секция 3",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 3,
+          "floor": 9
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5fb"
+      }
+    },
+    {
+      "classNameHoles": "polygon house29",
+      "classNameShape": "polygon shape",
+      "idShape": "house29",
+      "d": "814.29,308.25 814.16,260.32 858.44,260.32 858.45,248.4 1104.47,248.3 1110.43,260.34 1158.37,260.35 1158.47,308.04 1110.41,308.07 1104.44,304.33 858.42,304.26 858.41,308.23",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house29-tooltip",
+      "idToolTip": "house29-tooltip",
+      "toolTipText": "Этаж 10 Секция 3",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 3,
+          "floor": 10
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5fc"
+      }
+    },
+    {
+      "classNameHoles": "polygon house30",
+      "classNameShape": "polygon shape",
+      "idShape": "house30",
+      "d": "1159.42,758.45 1159.31,704.55 1230.36,704.58 1236.02,710.56 1481.65,710.51 1488.3,704.69 1524.62,704.71 1524.75,758.67",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house30-tooltip",
+      "idToolTip": "house30-tooltip",
+      "toolTipText": "Этаж 1 Секция 4",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 4,
+          "floor": 1
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5fd"
+      }
+    },
+    {
+      "classNameHoles": "polygon house31",
+      "classNameShape": "polygon shape",
+      "idShape": "house31",
+      "d": "1159.31,704.55 1159.2,654.56 1230.38,654.57 1236,659.88 1481.72,659.89 1488.32,654.6 1524.5,654.61 1524.62,704.71 1488.3,704.69 1481.65,710.51 1236.02,710.6 1230.36,704.58",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house31-tooltip",
+      "idToolTip": "house31-tooltip",
+      "toolTipText": "Этаж 2 Секция 4",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 4,
+          "floor": 2
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5fe"
+      }
+    },
+    {
+      "classNameHoles": "polygon house32",
+      "classNameShape": "polygon shape",
+      "idShape": "house32",
+      "d": "1159.2,654.56 1159.1,605.08 1230.41,605.1 1235.98,609.09 1481.78,609.08 1488.35,605.15 1524.38,605.16 1524.5,654.61 1488.32,654.6 1481.72,659.89 1236,659.88 1230.38,654.57",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house32-tooltip",
+      "idToolTip": "house32-tooltip",
+      "toolTipText": "Этаж 3 Секция 4",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 4,
+          "floor": 3
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc5ff"
+      }
+    },
+    {
+      "classNameHoles": "polygon house33",
+      "classNameShape": "polygon shape",
+      "idShape": "house33",
+      "d": "1159.1,605.08 1158.99,555.91 1230.44,555.92 1235.96,558.21 1481.85,558.17 1488.38,555.95 1524.26,555.95 1524.38,605.16 1488.35,605.15 1481.78,609.08 1235.98,609.09 1230.41,605.1",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house33-tooltip",
+      "idToolTip": "house33-tooltip",
+      "toolTipText": "Этаж 4 Секция 4",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 4,
+          "floor": 4
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc600"
+      }
+    },
+    {
+      "classNameHoles": "polygon house34",
+      "classNameShape": "polygon shape",
+      "idShape": "house34",
+      "d": "1158.99,555.91 1158.89,507.49 1524.15,507.43 1524.26,555.95 1488.38,555.95 1481.85,558.17 1235.96,558.21 1230.44,555.92",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house34-tooltip",
+      "idToolTip": "house34-tooltip",
+      "toolTipText": "Этаж 5 Секция 4",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 4,
+          "floor": 5
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc601"
+      }
+    },
+    {
+      "classNameHoles": "polygon house35",
+      "classNameShape": "polygon shape",
+      "idShape": "house35",
+      "d": "1158.89,507.49 1158.78,456.73 1524.03,456.81 1524.15,507.43",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house35-tooltip",
+      "idToolTip": "house35-tooltip",
+      "toolTipText": "Этаж 6 Секция 4",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 4,
+          "floor": 6
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc602"
+      }
+    },
+    {
+      "classNameHoles": "polygon house36",
+      "classNameShape": "polygon shape",
+      "idShape": "house36",
+      "d": "1158.78,456.73 1158.68,407.13 1230.53,407.15 1235.9,405.4 1482.05,405.3 1482.05,407.21 1523.91,407.22 1524.03,456.81",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house36-tooltip",
+      "idToolTip": "house36-tooltip",
+      "toolTipText": "Этаж 7 Секция 4",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 4,
+          "floor": 7
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc603"
+      }
+    },
+    {
+      "classNameHoles": "polygon house37",
+      "classNameShape": "polygon shape",
+      "idShape": "house37",
+      "d": "1158.68,407.13 1158.57,358.16 1230.56,358.15 1235.88,354.79 1482.12,354.8 1482.12,358.12 1523.79,358.11 1523.91,407.22 1482.05,407.21 1482.05,405.3 1235.9,405.4 1230.53,407.15",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house37-tooltip",
+      "idToolTip": "house37-tooltip",
+      "toolTipText": "Этаж 8 Секция 4",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 4,
+          "floor": 8
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc604"
+      }
+    },
+    {
+      "classNameHoles": "polygon house38",
+      "classNameShape": "polygon shape",
+      "idShape": "house38",
+      "d": "1158.57,358.16 1158.47,308.04 1230.59,307.99 1235.86,304.36 1488.53,304.43 1488.53,307.83 1523.67,307.81 1523.79,358.11 1482.12,358.12 1482.12,354.8 1235.88,354.79 1230.56,358.15",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house38-tooltip",
+      "idToolTip": "house38-tooltip",
+      "toolTipText": "Этаж 9 Секция 4",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 4,
+          "floor": 9
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc605"
+      }
+    },
+    {
+      "classNameHoles": "polygon house39",
+      "classNameShape": "polygon shape",
+      "idShape": "house39",
+      "d": "1158.47,308.04 1158.37,260.35 1230.63,260.36 1235.84,248.25 1488.57,248.15 1488.56,260.38 1523.56,260.39 1523.67,307.81 1488.53,307.83 1488.53,304.43 1235.86,304.36 1230.59,307.99",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house39-tooltip",
+      "idToolTip": "house39-tooltip",
+      "toolTipText": "Этаж 10 Секция 4",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 4,
+          "floor": 10
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc606"
+      }
+    },
+    {
+      "classNameHoles": "polygon house40",
+      "classNameShape": "polygon shape",
+      "idShape": "house40",
+      "d": "1524.75,758.67 1524.62,704.71 1571.73,704.73 1587.19,710.49 1839.63,710.43 1839.63,704.85 1870.43,704.86 1870.55,758.88",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house40-tooltip",
+      "idToolTip": "house40-tooltip",
+      "toolTipText": "Этаж 1 Секция 5",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 5,
+          "floor": 1
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc607"
+      }
+    },
+    {
+      "classNameHoles": "polygon house41",
+      "classNameShape": "polygon shape",
+      "idShape": "house41",
+      "d": "1524.62,704.71 1524.5,654.61 1571.79,654.61 1587.25,659.9 1839.65,659.17 1839.66,654.64 1870.33,654.65 1870.43,704.86 1839.63,704.85 1839.63,710.43 1587.19,710.49 1571.73,704.73",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house41-tooltip",
+      "idToolTip": "house41-tooltip",
+      "toolTipText": "Этаж 2 Секция 5",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 5,
+          "floor": 2
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc608"
+      }
+    },
+    {
+      "classNameHoles": "polygon house42",
+      "classNameShape": "polygon shape",
+      "idShape": "house42",
+      "d": "1524.5,654.61 1524.38,605.16 1571.85,605.17 1587.31,609.07 1839.69,609.05 1839.69,605.24 1870.23,605.24 1870.33,654.65 1839.66,654.64 1839.65,659.17 1587.25,659.9 1571.79,654.61",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house42-tooltip",
+      "idToolTip": "house42-tooltip",
+      "toolTipText": "Этаж 3 Секция 5",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 5,
+          "floor": 3
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc609"
+      }
+    },
+    {
+      "classNameHoles": "polygon house43",
+      "classNameShape": "polygon shape",
+      "idShape": "house43",
+      "d": "1524.38,605.16 1524.26,555.95 1571.91,555.95 1587.36,558.15 1839.71,558.1 1839.72,555.99 1870.13,555.99 1870.23,605.24 1839.69,605.24 1839.69,609.05 1587.31,609.07 1571.85,605.17",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house43-tooltip",
+      "idToolTip": "house43-tooltip",
+      "toolTipText": "Этаж 4 Секция 5",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 5,
+          "floor": 4
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc60a"
+      }
+    },
+    {
+      "classNameHoles": "polygon house44",
+      "classNameShape": "polygon shape",
+      "idShape": "house44",
+      "d": "1524.26,555.95 1524.15,507.43 1870.03,507.38 1870.13,555.99 1839.72,555.99 1839.71,558.1 1587.36,558.15 1571.91,555.95",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house44-tooltip",
+      "idToolTip": "house44-tooltip",
+      "toolTipText": "Этаж 5 Секция 5",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 5,
+          "floor": 5
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc60b"
+      }
+    },
+    {
+      "classNameHoles": "polygon house45",
+      "classNameShape": "polygon shape",
+      "idShape": "house45",
+      "d": "1524.15,507.43 1524.03,456.81 1869.92,456.88 1870.03,507.38",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house45-tooltip",
+      "idToolTip": "house45-tooltip",
+      "toolTipText": "Этаж 6 Секция 5",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 5,
+          "floor": 6
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc60c"
+      }
+    },
+    {
+      "classNameHoles": "polygon house46",
+      "classNameShape": "polygon shape",
+      "idShape": "house46",
+      "d": "1524.03,456.81 1523.91,407.22 1572.09,407.23 1587.53,405.26 1839.81,405.15 1839.8,407.29 1869.82,407.3 1869.92,456.88 1839.78,456.88",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house46-tooltip",
+      "idToolTip": "house46-tooltip",
+      "toolTipText": "Этаж 7 Секция 5",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 5,
+          "floor": 7
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc60d"
+      }
+    },
+    {
+      "classNameHoles": "polygon house47",
+      "classNameShape": "polygon shape",
+      "idShape": "house47",
+      "d": "1523.91,407.22 1523.79,358.11 1572.15,358.11 1587.59,354.81 1839.84,354.82 1839.83,358.08 1869.72,358.07 1869.82,407.3 1839.8,407.29 1839.81,405.15 1587.53,405.26 1572.09,407.23",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house47-tooltip",
+      "idToolTip": "house47-tooltip",
+      "toolTipText": "Этаж 8 Секция 5",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 5,
+          "floor": 8
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc60e"
+      }
+    },
+    {
+      "classNameHoles": "polygon house48",
+      "classNameShape": "polygon shape",
+      "idShape": "house48",
+      "d": "1523.79,358.11 1523.67,307.81 1572.21,307.78 1587.64,304.46 1839.86,304.48 1839.86,307.61 1869.62,307.59 1869.72,358.07 1839.83,358.08 1839.84,354.82 1587.59,354.81 1572.15,358.11",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house48-tooltip",
+      "idToolTip": "house48-tooltip",
+      "toolTipText": "Этаж 9 Секция 5",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 5,
+          "floor": 9
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc60f"
+      }
+    },
+    {
+      "classNameHoles": "polygon house49",
+      "classNameShape": "polygon shape",
+      "idShape": "house49",
+      "d": "1523.67,307.81 1523.56,260.39 1572.27,260.27 1587.71,248.11 1839.9,248.01 1839.89,260.42 1869.52,260.42 1869.62,307.59 1839.86,307.61 1839.86,304.48 1587.64,304.46 1572.21,307.78",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house49-tooltip",
+      "idToolTip": "house49-tooltip",
+      "toolTipText": "Этаж 10 Секция 5",
+      "routeTo": {
+        "path": "/floors",
+        "query": {
+          "section": 5,
+          "floor": 10
+        }
+      },
+      "_id": {
+        "$oid": "64e1c77d31327c83ab6fc610"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e1c9952976e5ee2edce223"
+  },
+  "num": 101,
+  "sectionImage": "4_plane.svg",
+  "sectionImageSmall": "4_plane.svg",
+  "sections": [
+    {
+      "classNameHoles": "polygon house0",
+      "classNameShape": "polygon shape",
+      "idShape": "house0",
+      "d": "637.45,522.59 637.45,575.07 771.92,575.07 771.9,519.5 876.39,519.58 876.37,301.54 664.95,301.51 665,522.71",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house0-tooltip",
+      "idToolTip": "house0-tooltip",
+      "toolTipText": "floor0",
+      "routeTo": {
+        "path": "/aparts",
+        "query": {
+          "apartments": 0
+        }
+      },
+      "_id": {
+        "$oid": "64e1c9952976e5ee2edce224"
+      }
+    },
+    {
+      "classNameHoles": "polygon house1",
+      "classNameShape": "polygon shape",
+      "idShape": "house1",
+      "d": "637.45,522.59 637.45,575.07 771.92,575.07 771.9,519.5 876.39,519.58 876.37,301.54 664.95,301.51 665,522.71",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house1-tooltip",
+      "idToolTip": "house1-tooltip",
+      "toolTipText": "floor1",
+      "routeTo": {
+        "path": "/aparts",
+        "query": {
+          "apartments": 1
+        }
+      },
+      "_id": {
+        "$oid": "64e1c9952976e5ee2edce225"
+      }
+    },
+    {
+      "classNameHoles": "polygon house2",
+      "classNameShape": "polygon shape",
+      "idShape": "house2",
+      "d": "499.99,301.5 661.94,301.5 661.94,519.58 634.36,519.51 634.44,575.07 499.98,575.07",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house2-tooltip",
+      "idToolTip": "house2-tooltip",
+      "toolTipText": "floor2",
+      "routeTo": {
+        "path": "/aparts",
+        "query": {
+          "apartments": 2
+        }
+      },
+      "_id": {
+        "$oid": "64e1c9952976e5ee2edce226"
+      }
+    },
+    {
+      "classNameHoles": "polygon house3",
+      "classNameShape": "polygon shape",
+      "idShape": "house3",
+      "d": "329.53,301.51 496.98,301.51 496.98,575.07 357.01,575.07 357.02,519.56 329.53,519.58",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house3-tooltip",
+      "idToolTip": "house3-tooltip",
+      "toolTipText": "floor3",
+      "routeTo": {
+        "path": "/aparts",
+        "query": {
+          "apartments": 3
+        }
+      },
+      "_id": {
+        "$oid": "64e1c9952976e5ee2edce227"
+      }
+    },
+    {
+      "classNameHoles": "polygon house4",
+      "classNameShape": "polygon shape",
+      "idShape": "house4",
+      "d": "109.58,301.51 326.51,301.51 326.5,522.67 354,522.59 354,575.07 219.55,575.07 219.55,519.53 109.57,519.58",
+      "show": true,
+      "sold": false,
+      "toolTipClass": "tooltip house4-tooltip",
+      "idToolTip": "house4-tooltip",
+      "toolTipText": "floor4",
+      "routeTo": {
+        "path": "/aparts",
+        "query": {
+          "apartments": 4
+        }
+      },
+      "_id": {
+        "$oid": "64e1c9952976e5ee2edce228"
+      }
+    }
+  ],
+  "__v": 0
+}]
